@@ -1,2 +1,3 @@
 # snake
-Well-known game about snake. Just for fun.
+
+`stack build --fast --file-watch --exec snake` for dev.
